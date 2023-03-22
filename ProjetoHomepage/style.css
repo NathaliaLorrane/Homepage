@@ -1,0 +1,34 @@
+body{
+ background: linear-gradient(90deg, #efd5ff 0%, #515ada 100%);
+ margin: auto;
+ padding: auto;
+ width: auto;
+ text-align: center;
+}
+#beleza{
+    font-family:Arial;
+    font-size: 24px;
+   
+
+   
+}
+#breve{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   
+  
+
+
+}
+
+#botao{
+    font-family: Verdana;
+    font-size: 24px;
+   
+    
+ 
+}
+#texto{
+    font-family:serif;
+    font-size: 28px;
+   
+}
